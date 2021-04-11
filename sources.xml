@@ -1,0 +1,88 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Filme</name>
+            <path pathversion="1">smb://192.168.178.31/Filme/</path>
+            <path pathversion="1">smb://192.168.178.31/HD Filme2/</path>
+            <path pathversion="1">smb://192.168.178.31/Filme3/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Serien</name>
+            <path pathversion="1">smb://192.168.178.31/Serien/</path>
+            <path pathversion="1">smb://192.168.178.31/Serien2/</path>
+            <path pathversion="1">smb://192.168.178.31/Serien3/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Chappa&apos;ai Filme</name>
+            <path pathversion="1">special://home/addon_data/plugin.video.chappaai/Movies/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/MrBlamo420/Style/master/Chappaai/default/movies.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Chappaai Serien</name>
+            <path pathversion="1">special://home/addon_data/plugin.video.chappaai/TVShows/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/MrBlamo420/Style/master/Chappaai/default/tv.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Chappaai Musikvideos</name>
+            <path pathversion="1">special://home/addon_data/plugin.video.chappaai/Music/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/MrBlamo420/Style/master/Chappaai/default/musicvideos.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Chappaai Kanäle</name>
+            <path pathversion="1">special://home/addon_data/plugin.video.chappaai/Live/</path>
+            <thumbnail pathversion="1">https://raw.githubusercontent.com/MrBlamo420/Style/master/Chappaai/default/live.png</thumbnail>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+        <source>
+            <name>Music</name>
+            <path pathversion="1">F:\Music\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>kne</name>
+            <path pathversion="1">http://start.kodineuerleben.eu/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>DiamondWizard</name>
+            <path pathversion="1">http://repo.rubyjewelwizard.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>repository.castagnait</name>
+            <path pathversion="1">https://castagnait.github.io/repository.castagnait/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Arnold</name>
+            <path pathversion="1">F:\Music\Arnold\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Tutorials</name>
+            <path pathversion="1">C:\Users\Marco\Downloads\Tutorials\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

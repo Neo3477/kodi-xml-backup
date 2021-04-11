@@ -1,0 +1,11 @@
+<mediasources>
+    <network>
+        <location id="0">smb://xbmc:xbmc@192.168.178.31/Filme</location>
+        <location id="1">smb://xbmc:xbmc@192.168.178.31/HD Filme2</location>
+        <location id="2">smb://xbmc:xbmc@192.168.178.31/Serien</location>
+        <location id="3">smb://xbmc:xbmc@192.168.178.31/Serien2</location>
+        <location id="4">smb://xbmc:xbmc@192.168.178.31/Music</location>
+        <location id="5">smb://xbmc:xbmc@192.168.178.31/Filme3</location>
+        <location id="6">smb://xbmc:xbmc@192.168.178.31/Serien3</location>
+    </network>
+</mediasources>

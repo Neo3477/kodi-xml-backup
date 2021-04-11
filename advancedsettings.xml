@@ -1,0 +1,28 @@
+<advancedsettings>
+    <videodatabase>
+        <type>mysql</type>
+        <host>localhost</host>
+        <port>3306</port>
+        <user>kodi</user>
+        <pass>kodi</pass>
+    </videodatabase>
+    <musicdatabase>
+        <type>mysql</type>
+        <host>localhost</host>
+        <port>3306</port>
+        <user>kodi</user>
+        <pass>kodi</pass>
+    </musicdatabase>
+    <cache>
+	<buffermode>1</buffermode>
+	<memorysize>713031680</memorysize>
+	<readfactor>4</readfactor>
+    </cache>
+    <videolibrary>
+	<importwatchedstate>true</importwatchedstate>
+	<importresumepoint>true</importresumepoint>
+    </videolibrary>
+</advancedsettings>
+
+
+		
